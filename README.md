@@ -3,7 +3,7 @@ Convert string to hashmap based a set of rules. Created in swift. Added Unit tes
 
 This project was created as part of a coding exercise I received. Challenge was to convert a user input text to hashmap based on a set of rules. 
 
-These are the rules:
+### These are the rules:
 
 Given the following filename:  polar_cat_plane_swift.txt 
 
@@ -21,15 +21,17 @@ Rules:
 
 *************************************************************
 
-Example input: 
-`
+#### Example input: 
+```
 polar_cat_plane_swift.txt 
-`
+```
 ***********************************************************
 
-Example output: 
+#### Example output: 
 
-`
+
+``` 
+
 Filename polar_cat_plane_swift.txt saved with contents: 
 
 { 
@@ -37,7 +39,9 @@ Filename polar_cat_plane_swift.txt saved with contents:
 "c" : "at", 
 "p" : "lane", 
 "s": "wift" 
-}; 
+};
 
-At path: -URL path to polar_cat_plane_swift.txt-
-`
+At path: <-URL path to polar_cat_plane_swift.txt->  
+
+```
+
